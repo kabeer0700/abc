@@ -1,4 +1,14 @@
-<H2>THIS IS PF LAB</H2>
+<H2>24K-0700</H2>
 <BR/>
-<P>HELLO WORD</P>
-<IMAGE SRC="https://cdn.britannica.com/77/170477-050-1C747EE3/Laptop-computer.jpg">
+<H4>ABOUT ME</H4>
+    <P>MY NAME IS MUHAMMAD KABEER . I HAVE DONE MY INTERMEDIATE FROM <B>DEHLI GOVERNMENT COLLEGE</B> CURRENTLY
+    I AM STYDING COMPUTER SCIENCE FROM <B>FAST NUCES KARACHI</B></P>
+    <BR/> MY HOBBIES ARE AS FOLLOWS;
+    <BR/><I><B>1 </B>CODING</I>
+    <BR/><I><B>2 </B>CRICKET</I>
+    <BR/><I><B>3 </B>GAMING</I>
+    <BR/>
+    ![MY IMAGE](https://github.com/user-attachments/assets/63d0bb52-095d-448b-a7d3-81d25bc8967c)
+
+
+    
