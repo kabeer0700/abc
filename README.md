@@ -8,7 +8,7 @@
     <BR/><I><B>2 </B>CRICKET</I>
     <BR/><I><B>3 </B>GAMING</I>
     <BR/>
-    ![MY IMAGE](https://github.com/user-attachments/assets/e10497b8-a0d7-4ed7-95f5-9ab28fec1e01)
+    <IMAGE SRC="https://github.com/user-attachments/assets/e10497b8-a0d7-4ed7-95f5-9ab28fec1e01"HEIGHT="400">
 
 
 
